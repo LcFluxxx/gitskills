@@ -1,4 +1,8 @@
 qdqwdqwd
 Creating a new branch is quick.11
 wqdqwdqwdqwd
-Creating a new branch is quick & simple.
+<<<<<<< HEAD
+
+=======
+Creating a new branch is quick AND simple.
+>>>>>>> featurel
